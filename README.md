@@ -1,7 +1,7 @@
 # vaadinSimpleCrud
 A simple crud vaadin project in spring java 
 
-# requirement: jdk 11, maven
+- requirement: jdk 11, maven
 
 npm install
 
